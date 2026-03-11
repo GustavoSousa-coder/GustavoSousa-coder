@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Luis Gustavo 👋</h1>
 
-<!--
-**GustavoSousa-coder/GustavoSousa-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Programador | Entusiasta de IA | Automação
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+- 💻 Programador
+- 🤖 Trabalho com Inteligência Artificial
+- 🧠 Integro IA com ferramentas como Obsidian
+- 📚 Sempre aprendendo novas tecnologias
+
+---
+
+## 🚀 Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak de commits
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+- GitHub: https://github.com/GustavoSousa-coder
+- Email: sousa.gustavo.dev@gmail.com
