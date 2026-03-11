@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ngrok-635BFF?style=for-the-badge&logo=ngrok&logoColor=white" />
 </p>
 
 ---
@@ -34,7 +35,6 @@
 ### Infra, Dados e Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postman,git,github,vscode,springdoc,maven,gradle," />
-  <img src="https://img.shields.io/badge/ngrok-635BFF?style=for-the-badge&logo=ngrok&logoColor=white" />
 </p>
 
 ---
