@@ -8,17 +8,18 @@ Programador | Entusiasta de IA | Automação
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Programador
-- 🤖 Trabalho com Inteligência Artificial
-- 🧠 Integro IA com ferramentas como Obsidian
-- 📚 Sempre aprendendo novas tecnologias
+_Programador em Java com Spring Boot
+_Python com IA
+_Kotlin com jetpack Compose
+_desenvolvimento web js,html,css
+_banco de dados
 
 ---
 
 ## 🚀 Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,java,kotlin,MySql" />
 </p>
 
 ---
