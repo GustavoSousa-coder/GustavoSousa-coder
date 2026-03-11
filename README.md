@@ -1,64 +1,70 @@
-<h1 align="center">Olá, eu sou Luis Gustavo 👋</h1>
+<div align="center">
+  <h1>Olá, eu sou Luis Gustavo 👋</h1>
+  <p><strong>Desenvolvedor Backend Java | Especialista em APIs | Entusiasta de IA & Dados</strong></p>
 
-<p align="center">
-  <strong>Desenvolvedor Backend | Integrador de IA | Engenharia de Dados</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ngrok-635BFF?style=for-the-badge&logo=ngrok&logoColor=white" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/ngrok-635BFF?style=for-the-badge&logo=ngrok&logoColor=white" />
+  </p>
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🚀 Desenvolvedor em constante evolução, focado em construir soluções robustas que unem o **Backend tradicional** à **Inteligência Artificial**.
+🚀 Desenvolvedor focado em construir soluções robustas que unem o **Backend tradicional** à **Inteligência Artificial**. Sou movido pelo desafio de transformar requisitos complexos em sistemas seguros e escaláveis.
 
-* **Backend:** Especialista na criação de APIs em **Java**, sempre priorizando segurança, conformidade com regras de negócio e a garantia de qualidade através de **testes unitários**.
-* **IA & Dados:** Atualmente aprofundando em **Python** aplicado à IA e nas bases de **Engenharia de Dados** com MySQL.
-* **Toolbelt:** Domínio de Git/GitHub para versionamento, Postman para testes de API, Ngrok para tunelamento e vivência inicial com Docker para containerização.
+* **Backend & APIs:** Especialista em **Java**, focado em segurança, regras de negócio e **Testes Unitários**.
+* **IA & Engenharia de Dados:** Integrando modelos de **IA com Python** e estruturando bancos de dados **MySQL**.
+* **Gestão de Projetos:** Domínio de **Maven** e **Gradle** para automação de builds e documentação com **SpringDoc**.
+* **Fluxo Dev:** Experiência com Git/GitHub, Postman, Ngrok para túneis e conhecimentos em Docker.
 
-> 💡 **Mindset:** "Acredito que um bom código nasce do questionamento e da análise de sistemas bem estruturada. Se não for seguro, testado e funcional, não está pronto."
+> 💡 **Mindset:** "Acredito que um código só está pronto quando é seguro, testado e funcional. O questionamento constante é a base de um bom sistema."
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-### Linguagens e Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,js,html,css" />
-</p>
+<div align="center">
+  <h3>Linguagens e Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,js,html,css&perline=7" />
+  
+  <br/>
 
-### Infra, Dados e Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postman,git,github,vscode,maven,gradle,,springDoc" />
-</p>
+  <h3>Infra, Dados e Ferramentas</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,maven,gradle,postman,git,github,docker,vscode&perline=8" />
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Atividade
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
+  
+  <br/>
+  
+  <img width="100%" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="mailto:sousa.gustavo.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/GustavoSousa-coder">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Streak de commits
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Contato
-
-<p align="left">
-  <a href="mailto:sousa.gustavo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/GustavoSousa-coder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%
