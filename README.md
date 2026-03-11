@@ -8,18 +8,18 @@ Programador | Entusiasta de IA | Automação
 
 ## 👨‍💻 Sobre mim
 
-_Programador em Java com Spring Boot
-_Python com IA
-_Kotlin com jetpack Compose
-_desenvolvimento web js,html,css
-_banco de dados
+_Programador em Java com Spring Boot\n
+_Python com IA\n
+_Kotlin com jetpack Compose\n
+_desenvolvimento web js,html,css\n
+_banco de dados\n
 
 ---
 
 ## 🚀 Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,java,kotlin,MySql" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,MySql,Postman,js,html,css,git,github,vscode" />
 </p>
 
 ---
