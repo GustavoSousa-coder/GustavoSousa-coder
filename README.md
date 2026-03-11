@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou Luis Gustavo 👋</h1>
+  <h1>Olá, sou Luis Gustavo </h1>
   <p><strong>Desenvolvedor Backend Java | Especialista em APIs | Entusiasta de IA & Dados</strong></p>
 
   <p>
@@ -13,20 +13,20 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
-🚀 Desenvolvedor focado em construir soluções robustas que unem o **Backend tradicional** à **Inteligência Artificial**. Sou movido pelo desafio de transformar requisitos complexos em sistemas seguros e escaláveis.
+ Desenvolvedor focado em construir soluções robustas que unem o **Backend tradicional** à **Inteligência Artificial**. Sou movido pelo desafio de transformar requisitos complexos em sistemas seguros e escaláveis.
 
 * **Backend & APIs:** Especialista em **Java**, focado em segurança, regras de negócio e **Testes Unitários**.
 * **IA & Engenharia de Dados:** Integrando modelos de **IA com Python** e estruturando bancos de dados **MySQL**.
 * **Gestão de Projetos:** Domínio de **Maven** e **Gradle** para automação de builds e documentação com **SpringDoc**.
 * **Fluxo Dev:** Experiência com Git/GitHub, Postman, Ngrok para túneis e conhecimentos em Docker.
 
-> 💡 **Mindset:** "Acredito que um código só está pronto quando é seguro, testado e funcional. O questionamento constante é a base de um bom sistema."
+>  **Mindset:** "Acredito que um código só está pronto quando é seguro, testado e funcional. O questionamento constante é a base de um bom sistema."
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
   <h3>Linguagens e Frameworks</h3>
@@ -40,15 +40,15 @@
 
 ---
 
-## 📊 Estatísticas e Atividade
+## Estatísticas e Atividade
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight" />
+  <img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
   
   <br/>
   
-  <img width="100%" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
 </div>
 
 ---
@@ -56,13 +56,17 @@
 ## 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="mailto:sousa.gustavo.dev@gmail.com">
+  <a href="sousa.gustavo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/GustavoSousa-coder">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
+
+### Email: sousa.gustavo.dev@gmail.com
+### LinkedIn: https://www.linkedin.com/in/luis-gustavo-633738319/
 
 <br/>
 
