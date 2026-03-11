@@ -34,7 +34,7 @@
 
 ### Infra, Dados e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postman,git,github,vscode,springdoc,maven,gradle," />
+  <img src="https://skillicons.dev/icons?i=mysql,postman,git,github,vscode,maven,gradle,,springDoc" />
 </p>
 
 ---
