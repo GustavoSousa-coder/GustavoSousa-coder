@@ -30,6 +30,17 @@
   <img src="https://img.shields.io/badge/ngrok-635BFF?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok" />
 </div>
 
+<br/>
+
+
+<h2 align="center">Estatísticas e Atividade</h2>
+
+<div align="le">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GustavoSousa-coder&theme=dark&hide_border=false" alt="Streak Stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+</div>
+
 <br />
 
 <h2>Sobre mim</h2>
@@ -73,22 +84,7 @@
   <img src="https://raw.githubusercontent.com/GustavoSousa-coder/GustavoSousa-coder/output/snake.svg" alt="Snake animation" />
 </div>
 
-<br />
-
-<hr />
-<br />
-
-<h2 align="center">Estatísticas e Atividade</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GustavoSousa-coder&theme=dark&hide_border=false" alt="Streak Stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-</div>
-
-<br />
-
-<h2 align="center">🌐 Conecte-se comigo</h2>
+<h3 align="center">🌐 Conecte-se comigo</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luis-gustavo-633738319/" target="_blank">
@@ -104,3 +100,5 @@
     <img src="https://img.shields.io/badge/GitHub-100000&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+<hr />
