@@ -38,16 +38,23 @@
   <img src="https://skillicons.dev/icons?i=mysql,maven,gradle,postman,git,github,docker,vscode&perline=8" />
 </div>
 
+<br/>
+
 ---
 
 ## Estatísticas e Atividade
 
+<br/>
+
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight" />
-  <img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight" />
+
+  <br/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
   
   <br/>
-  
+
   <img width="80%" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
 </div>
 
