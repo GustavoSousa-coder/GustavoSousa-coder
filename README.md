@@ -47,6 +47,12 @@
 
 ---
 
+<div align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
 <img src="https://raw.githubusercontent.com/GustavoSousa-coder/GustavoSousa-coder/output/snake.svg" alt="Snake animation" />
 
 <br/>
@@ -62,11 +68,6 @@
 
 <br/>
 
-<div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
-</div>
-
-<br/>
 
 <div align="center">
   <img width="50%" max-width="300px" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
