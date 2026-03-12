@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, sou Luis Gustavo </h1>
-  <p><strong>Desenvolvedor Backend Java | APIs Restful | Database</strong></p>
+  <p><strong>Desenvolvedor Backend Java | APIs Restful | IA & Dados</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -37,8 +37,10 @@
   <h3>Linguagens e Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,js,html,css&perline=7" height="60" />
 
+  <br/>
+
   <h3>Infra, Dados e Ferramentas</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,maven,gradle,postman,git,github,docker,vscode&perline=8" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql,maven,gradle,postman,git,github,docker,vscode,idea,pycharm,androidstudio&perline=11" height="60" />
 </div>
 
 <br/><br/>
