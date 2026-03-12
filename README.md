@@ -69,7 +69,7 @@
 <br/>
 
 <div align="center">
-  <img width="40%" max-width="300px" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
+  <img width="50%" max-width="300px" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
 </div>
 
 
