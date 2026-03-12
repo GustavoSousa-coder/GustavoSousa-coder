@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, sou Luis Gustavo </h1>
-  <p><strong>Desenvolvedor Backend Java | APIs Restful | IA & Dados</strong></p>
+  <p><strong>Desenvolvedor Backend Java | APIs Restful | Database</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
