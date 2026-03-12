@@ -58,16 +58,18 @@
 
 <div align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight" /> 
-  
-  
 </div>
+
+<br/>
 
 <div align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="90%" max-width="800px" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
+  <img width="70%" max-width="800px" src="https://streak-stats.demolab.com?user=GustavoSousa-coder&theme=tokyonight" />
 </div>
 
 
