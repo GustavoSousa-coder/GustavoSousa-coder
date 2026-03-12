@@ -63,7 +63,7 @@
 <br/>
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
