@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight" />  
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=tokyonight" />  
 </div>
 
 <br/>
@@ -38,7 +38,7 @@
 <br/>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
