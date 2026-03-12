@@ -11,6 +11,8 @@
   </p>
 </div>
 
+<br/>
+
 ##  Sobre mim
 
  Sou um desenvolvedor em constante evolução, fascinado por como os sistemas se comunicam por baixo do capô. Em vez de focar apenas em teoria, prefiro construir projetos que resolvam problemas reais usando **Java** e outras tecnologias.
@@ -27,6 +29,7 @@
 
 > **Caminho futuro:** busco aprender mais com novas tecnologias e metodologias de desenvolvimento. 
 
+<br/>
 
 ##  Tecnologias & Ferramentas
 
@@ -38,10 +41,17 @@
   <img src="https://skillicons.dev/icons?i=mysql,maven,gradle,postman,git,github,docker,vscode&perline=8" height="60" />
 </div>
 
+<br/><br/>
+
+---
+
+<img src="https://raw.githubusercontent.com/GustavoSousa-coder/GustavoSousa-coder/output/snake.svg" alt="Snake animation" />
+
 <br/>
 
+---
 
-## Estatísticas e Atividade
+### Estatísticas e Atividade
 
 
 <div align="center">
@@ -55,14 +65,14 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/GustavoSousa-coder/GustavoSousa-coder/output/snake.svg" alt="Snake animation" />
+<br/><br/>
 
 
 ## 🌐 Conecte-se comigo
 
 
-<div align="left">
-  <a href="mailto:sousa.gustavo.dev@gmail.com">
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sousa.gustavo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/GustavoSousa-coder">
