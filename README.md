@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, sou Luis Gustavo </h1>
-  <p><strong>Desenvolvedor Backend Java | APIs Restful | IA & Dados</strong></p>
+  <p><strong>Desenvolvedor Backend Java | APIs Restful | Database</strong></p>
 
 ---
 
