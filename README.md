@@ -50,12 +50,14 @@
 <h2 align="center">Estatísticas e Atividade</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&theme=dark&layout=compact&hide_border=false" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GustavoSousa-coder&theme=dark&layout=compact" alt="Top Langs" height="150" />
+  
   <br />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoSousa-coder&theme=dark" alt="Streak Stats" />
 </p>
-
 <br />
 
 <h2>Sobre mim</h2>
