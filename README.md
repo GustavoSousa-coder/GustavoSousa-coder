@@ -49,12 +49,12 @@
 
 <h2 align="center">Estatísticas e Atividade</h2>
 
-<div align="le">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GustavoSousa-coder&theme=dark&hide_border=false" alt="Streak Stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&theme=dark&layout=compact&hide_border=false" alt="Top Langs" height="150" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoSousa-coder&theme=dark" alt="Streak Stats" />
+</p>
 
 <br />
 
