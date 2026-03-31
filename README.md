@@ -53,6 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=GustavoSousa-coder&theme=dark&hide_border=false" alt="Streak Stats" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
 <br />
