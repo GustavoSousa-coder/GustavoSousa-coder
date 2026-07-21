@@ -56,14 +56,14 @@
 <!-- gráfico de contribuições animado: dados reais, células reveladas uma a
      uma (regenerado por scripts/fetch_contributions.py + render_heatmap.py) -->
 <h3><code>gustavo@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições do Luis Gustavo no GitHub" />
+<img src="[./contrib-heatmap.svg](https://github.com/GustavoSousa-coder/GustavoSousa-coder/blob/main/.github/workflows/contrib-heatmap.svg)" width="860" alt="Gráfico de contribuições do Luis Gustavo no GitHub" />
 
 <br>
 <br>
 
 <!-- terminal simulado com foco, stack e destaques -->
 <h3><code>gustavo@github ~ $ neofetch</code></h3>
-<img src="./info-card.svg" width="490" alt="Luis Gustavo — foco, stack e destaques" />
+<img src="[./info-card.svg](https://github.com/GustavoSousa-coder/GustavoSousa-coder/blob/main/.github/workflows/info-card.svg)" width="490" alt="Luis Gustavo — foco, stack e destaques" />
 
 </div>
 
