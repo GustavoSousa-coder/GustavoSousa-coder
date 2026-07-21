@@ -53,10 +53,11 @@
 
 <div align="center">
 
-<!-- gráfico de contribuições animado: dados reais, células reveladas uma a
-     uma (regenerado por scripts/fetch_contributions.py + render_heatmap.py) -->
+<!-- gráfico de contribuições animado: dados reais, quadrados acendem um a um
+     (regenerado diariamente por .github/workflows/update-profile-art.yml
+     rodando scripts/fetch_contributions.py + scripts/generate_streak_svg.py) -->
 <h3><code>gustavo@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições do Luis Gustavo no GitHub" />
+<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições do Luis Gustavo no GitHub — atualizado diariamente" />
 
 <br>
 <br>
@@ -121,6 +122,9 @@
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sousa.gustavo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://gustavosousa-coder.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Terminal_Interativo-gustavosousa--coder.github.io-22d3ee?logo=gnometerminal&logoColor=black" alt="Terminal Interativo" />
   </a>
 </div>
 
