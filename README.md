@@ -36,28 +36,37 @@
   <img src="https://img.shields.io/badge/ngrok-635BFF?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok" />
 
   <br />
-  
+
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  
-  
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/OkHttp-3D3D3D?style=for-the-badge&logo=square&logoColor=white" alt="OkHttp" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </div>
 
 <br/>
 
+<div align="center">
 
-<h2 align="center">Estatísticas e Atividade</h2>
+<!-- gráfico de contribuições animado: dados reais, células reveladas uma a
+     uma (regenerado por scripts/fetch_contributions.py + render_heatmap.py) -->
+<h3><code>gustavo@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuições do Luis Gustavo no GitHub" />
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GustavoSousa-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GustavoSousa-coder&theme=dark&layout=compact" alt="Top Langs" height="150" />
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoSousa-coder&theme=dark" alt="Streak Stats" />
-</p>
+<br>
+<br>
+
+<!-- terminal simulado com foco, stack e destaques -->
+<h3><code>gustavo@github ~ $ neofetch</code></h3>
+<img src="./info-card.svg" width="490" alt="Luis Gustavo — foco, stack e destaques" />
+
+</div>
+
 <br />
 
 <h2>Sobre mim</h2>
@@ -67,7 +76,8 @@
 <ul>
   <li><strong>No que eu coloco a mão:</strong> Muito <strong>Java</strong> com <strong>Spring</strong> e um pouco de <strong>Kotlin</strong>. Gosto de entender como a regra de negócio vira código de verdade.</li>
   <li><strong>Engenharia de Dados:</strong> estrutura com database <strong>MySQL</strong> e conhecimento em outros database.</li>
-  <li><strong>Gestão de Projetos:</strong> Domínio de <strong>Maven</strong> e <strong>Gradle</strong> para automação de builds e documentação com <strong>SpringDoc.</strong></li>
+  <li><strong>Gestão de Projetos:</strong> Domínio de <strong>Maven</strong> e <strong>Gradle</strong> para automação de builds e documentação com <strong>SpringDoc</strong> (Swagger).</li>
+  <li><strong>Mobile:</strong> apps <strong>Android</strong> em <strong>Kotlin</strong>, com <strong>Retrofit</strong> e <strong>OkHttp</strong> (interceptor de autenticação JWT) para consumo de API, <strong>Gson</strong> para JSON e <strong>Coroutines</strong> para requisições assíncronas.</li>
   <li><strong>Fluxo Dev:</strong> conhecimento de Git/GitHub, Postman, Ngrok para túneis.</li>
 </ul>
 
@@ -86,7 +96,7 @@
 <div align="center">
   <h3>Linguagens e Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,js,html,css&perline=7" height="60" />
-  
+
   <br />
 
   <h3>Infra, Dados e Ferramentas</h3>
@@ -97,15 +107,12 @@
 
 <hr />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSousa-coder/GustavoSousa-coder/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoSousa-coder/GustavoSousa-coder/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoSousa-coder/GustavoSousa-coder/output/pacman-contribution-graph.svg">
-</picture>
-
 <h3 align="center">🌐 Conecte-se comigo</h3>
 
 <div align="center">
+  <a href="https://github.com/GustavoSousa-coder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/luis-gustavo-633738319/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -114,9 +121,6 @@
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sousa.gustavo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/GustavoSousa-coder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
