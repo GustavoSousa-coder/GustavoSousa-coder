@@ -1,22 +1,22 @@
 {
   "username": "GustavoSousa-coder",
-  "generated_at": "2026-07-26T08:39:39Z",
+  "generated_at": "2026-07-27T10:08:37Z",
   "range": {
     "start": "2025-07-27",
+    "end": "2026-07-27"
+  },
+  "total_contributions": 109,
+  "active_days": 24,
+  "avg_per_active_day": 4.5,
+  "current_streak": {
+    "length": 7,
+    "start": "2026-07-20",
     "end": "2026-07-26"
   },
-  "total_contributions": 107,
-  "active_days": 23,
-  "avg_per_active_day": 4.7,
-  "current_streak": {
-    "length": 6,
-    "start": "2026-07-20",
-    "end": "2026-07-25"
-  },
   "longest_streak": {
-    "length": 6,
+    "length": 7,
     "start": "2026-07-20",
-    "end": "2026-07-25"
+    "end": "2026-07-26"
   },
   "best_day": {
     "date": "2026-03-12",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-07",
-      "total": 43
+      "total": 45
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-07-26",
+      "count": 2
+    },
+    {
+      "date": "2026-07-27",
       "count": 0
     }
   ]
